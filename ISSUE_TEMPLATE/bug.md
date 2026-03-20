@@ -1,1 +1,28 @@
---- name: Bug about: Qualcosa non funziona come previsto title: "[BUG] " labels: bug assignees: '' --- ## Descrizione del problema Cosa succede e cosa dovrebbe succedere invece. ## Passi per riprodurlo 1. 2. 3. ## Ambiente Versione BC: Tenant / Società: Solo in produzione o anche in test? ## Urgenza - [ ] Bloccante (produzione ferma) - [ ] Alto (workaround disponibile) - [ ] Normale ## Ore stimate Stima: __h
+---
+name: Bug
+about: Qualcosa non funziona come previsto
+title: "[BUG] "
+labels: bug
+assignees: ''
+---
+
+## Descrizione del problema
+Cosa succede e cosa dovrebbe succedere invece.
+
+## Passi per riprodurlo
+1. 
+2. 
+3. 
+
+## Ambiente
+Versione BC: 
+Tenant / Società: 
+Solo in produzione o anche in test? 
+
+## Urgenza
+- [ ] Bloccante (produzione ferma)
+- [ ] Alto (workaround disponibile)
+- [ ] Normale
+
+## Ore stimate
+Stima: __h
