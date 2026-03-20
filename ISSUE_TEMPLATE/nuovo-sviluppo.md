@@ -1,1 +1,26 @@
---- name: Nuovo sviluppo about: Nuova funzionalità da implementare in BC title: "[SVILUPPO] " labels: nuovo sviluppo assignees: '' --- ## Descrizione Cosa bisogna fare e perché. ## Requisiti funzionali - - ## Criteri di accettazione - [ ] - [ ] ## Note tecniche BC Tabelle coinvolte: Codeunit / Report: Extension / AppSource: ## Ore stimate Stima: __h
+---
+name: Nuovo sviluppo
+about: Nuova funzionalità da implementare in BC
+title: "[SVILUPPO] "
+labels: nuovo sviluppo
+assignees: ''
+---
+
+## Descrizione
+Cosa bisogna fare e perché.
+
+## Requisiti funzionali
+- 
+- 
+
+## Criteri di accettazione
+- [ ] 
+- [ ] 
+
+## Note tecniche BC
+Tabelle coinvolte: 
+Codeunit / Report: 
+Extension / AppSource: 
+
+## Ore stimate
+Stima: __h
